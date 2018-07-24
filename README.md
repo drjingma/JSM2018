@@ -2,16 +2,16 @@
 
 ## Sunday
 
-CC-West 304/305 Discovering Homology in Multi-View Data: New Statistical Methods for Data Integration — Invited Papers
+(CC-West 304/305) Discovering Homology in Multi-View Data: New Statistical Methods for Data Integration — Invited Papers
 
  * 4:05 PM    Clustering Multiple-View Data: Are Two Clusterings Independent? — Lucy Gao, University of Washington
  
-CC-West 121 Recent Advances in Cluster Analysis and Cluster Validation — Invited Papers
+(CC-West 121) Recent Advances in Cluster Analysis and Cluster Validation — Invited Papers
 
  * 4:55 PM    Think Before You Cluster: Testing for Clusterability — Naomi Brownstein, Florida State University
  * 5:20 PM    Cluster Validation by Measurement of Clustering Characteristics Relevant to the User — Christian Hennig, University College London
  
-CC-West 215/216  Omics Data: Study Design, Power and Sample Size — Topic Contributed Papers
+(CC-West 215/216) Omics Data: Study Design, Power and Sample Size — Topic Contributed Papers
 
   * 4:25 PM    Multivariate FDR Control for Omics Data Integration — Ali Shojaie, University of Washington
 
